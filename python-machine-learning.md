@@ -5,7 +5,7 @@
 
 ## Zen of Python
 
-'''
+```
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
@@ -25,7 +25,7 @@ Although never is often better than right now.[n 1]
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea—let's do more of those!
-'''
+```
 
 ## 파이썬의 특징
 - 가독성
@@ -78,9 +78,9 @@ Namespaces are one honking great idea—let's do more of those!
 	- 윈도우 환경
  
 - 파이썬을 이미 설치했다면
-'''python
+```python
 pip install numpy scipy matplotlab ipython scikit-learn pandas pillow
-'''
+```
 
 ## 파이썬이 ML에 선호되는 이유
 - 범용 프로그래밍 언어의 장점
