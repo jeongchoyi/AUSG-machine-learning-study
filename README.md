@@ -28,5 +28,7 @@
 ### 스터디 내용
 1. [파이썬 딥다이브](https://github.com/iamcho2/ausg-machine-learning-study/blob/master/1.%20python-deep-dive.md)
 2. 개발환경 구축
+
 	2-1. [Anaconda 설치](https://github.com/iamcho2/ausg-machine-learning-study/blob/master/2-1.%20making-enviroments-anaconda.md)
+    
 	2-2. [Tensorflow 설치](https://github.com/iamcho2/ausg-machine-learning-study/blob/master/2-2.%20making-enviroments-tensorflow.md)
