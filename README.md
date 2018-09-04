@@ -34,3 +34,4 @@
 	2-2. [Tensorflow 설치](https://github.com/iamcho2/ausg-machine-learning-study/blob/master/2-2.%20making-enviroments-tensorflow.md)
 	
 3. [Perceptron 퍼셉트론](https://github.com/iamcho2/AUSG-machine-learning-study/blob/master/3.%20perceptron.md)
+4. [Jupyter Notebook](https://github.com/iamcho2/AUSG-machine-learning-study/blob/master/4.%20installing-and-running-jupyter-notebook.md)
