@@ -35,3 +35,4 @@
 	
 3. [Perceptron 퍼셉트론](https://github.com/iamcho2/AUSG-machine-learning-study/blob/master/3.%20perceptron.md)
 4. [Jupyter Notebook](https://github.com/iamcho2/AUSG-machine-learning-study/blob/master/4.%20installing-and-running-jupyter-notebook.md)
+5. [Activation function](https://github.com/iamcho2/AUSG-machine-learning-study/blob/master/5.%20activation-function.md)
